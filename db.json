@@ -1,0 +1,2237 @@
+{
+    "headerTag": [
+      { "name": "Briefs", "href": "./brief.html" },
+      { "name": "Videos", "href": "#" },
+      { "name": "City", "href": "./city.html" },
+      { "name": "India", "href": "#" },
+      { "name": "World", "href": "#" },
+      { "name": "Business", "href": "#" },
+      { "name": "Tech", "href": "#" },
+      { "name": "Cricket", "href": "#" },
+      { "name": "Sports", "href": "./sports.html" },
+      { "name": "Entertainment", "href": "./entertainment.html" },
+      { "name": "Tv", "href": "#" },
+      { "name": "Web Series", "href": "#" },
+      { "name": "Life & Styles", "href": "#" },
+      { "name": "Education", "href": "./education.html" },
+      { "name": "Photos", "href": "#" },
+      { "name": "Blogs", "href": "#" }
+    ],
+  
+    "sectionOneHeadlineLeft": [
+      {
+        "title": "Live: Review of Covaxin shot under way, WHO says",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-23502,msid-87267511,width-150,resizemode-4/87267511.jpg"
+      },
+      {
+        "title": "When Gulzar met Satyajit Ray, Kishore, RD....",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-31572,msid-87253712,width-150,resizemode-4/87253712.jpg"
+      },
+      {
+        "title": "Drugs case: What Aryan Khan's lawyer said in court",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-40298,msid-87247422,width-600,resizemode-4/87247422.jpg"
+      },
+      {
+        "title": "T20 WC Live: Akeal Hosein ends Reeza Hendricks' stay",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-104496,msid-87273813,width-150,resizemode-4/87273813.jpg"
+      },
+      {
+        "title": "Dravid formally applies for head coach's post",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-48772,msid-87278997,width-150,resizemode-4/87278997.jpg"
+      },
+      {
+        "title": "Add rape sections in Bulandshahr case: DCW",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-25040,msid-87280613,width-150,resizemode-4/87280613.jpg"
+      },
+      {
+        "title": "Live: 5 dengue cases in Ggm; total 217",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-71472,msid-87268455,width-150,resizemode-4/87268455.jpg"
+      },
+      {
+        "title": "Metro stn linked with electric shuttle service",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-85956,msid-87276970,width-150,resizemode-4/87276970.jpg"
+      },
+      {
+        "title": "Samsung NEO QLED tvs are redefining sound",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-23424,msid-87204334,width-150,resizemode-4/87204334.jpg"
+      },
+      {
+        "title": "LAST FEW DAYS to get Never Before Discounts on Top Selling Gadgets.",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-303936,msid-82274978,width-150,resizemode-4/82274978.jpg"
+      },
+      {
+        "title": "Publicis Sapient fosters a culture of wellbeing",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-76166,msid-87258854,width-150,resizemode-4/87258854.jpg"
+      },
+      {
+        "title": "Discover curated gifting option - Tata CLiQ Luxury",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-123456,msid-87161396,width-150,resizemode-4/87161396.jpg"
+      }
+    ],
+  
+    "sectionOneHeadlineMiddle": [
+      {
+        "title": "Court refuses to pass blanket order over Sameer Wankhede’s plea on witness affidavit",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-123456,msid-87273858,width-600,resizemode-4/87273858.jpg"
+      },
+      {
+        "title": "Mumbai lawyer seeks FIR against SRK's manager Pooja, Sameer",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-123456,msid-87278203,width-600,resizemode-4/87278203.jpg"
+      },
+      {
+        "title": "Aryan Khan and Ananya Panday discussed 'weed': Report",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-123456,msid-87274473,width-600,resizemode-4/87274473.jpg"
+      },
+      {
+        "title": "Atul Khatri’s tips for managing glucose levels",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-61004,msid-87273865,width-200,resizemode-4/87273865.jpg"
+      },
+      {
+        "title": "Meet the next revolution in TV: Sony BRAVIA XR",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-53016,msid-87304604,width-200,resizemode-4/87304604.jpg"
+      }
+    ],
+  
+    "sectionOneHeadlineRight": [
+      {
+        "title": "Gzb: Police want Goondas Act against Yati, cite FIRs"
+      },
+      {
+        "title": "What it was like watching Ind-Pak match in Dubai"
+      },
+      {
+        "title": "T20 WC: Why Indian fans will be hoping Pak beat NZ"
+      },
+      {
+        "title": "macOS Monterey: 10 new features for Apple Mac users"
+      },
+      {
+        "title": "T20 WC Live: Pakistan seek 'revenge' against New Zealan..."
+      },
+      {
+        "title": "Dhanteras Store on Amazon: Smart TVs at 30% off"
+      },
+      {
+        "title": "T20 WC Live Score: South Africa vs West Indies"
+      },
+      {
+        "title": "How to create your ad with Shah Rukh Khan in it"
+      },
+      {
+        "title": "NCP's Malik vs NCB's Wankhede: A 'personal' feud in Aryan "
+      },
+      {
+        "title": "Bizarre remarks from Pakistanis after win against India"
+      },
+      {
+        "title": "Ananya's connection to Aryan's drug case: All you need to... "
+      },
+      {
+        "title": "Marriage is being used as tool for forced religious conversi..."
+      },
+      {
+        "title": "Patakhe Nahi, Diye Jalao’ drive in Delhi from Oct 27"
+      }
+    ],
+  
+    "sectionFourHeadlineLeft": [
+      {
+        "title": "SRK's son Aryan Khan drugs case: 5-member vigilance team in Mumbai to",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-40298,msid-87295290,width-600,resizemode-4/87295290.jpg"
+      },
+      {
+        "title": "Pic of Taimur Ali Khan's lookalike goes viral",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-21132,msid-87304557,width-200,resizemode-4/87304557.jpg"
+      },
+      {
+        "title": "Actresses who turned down films with SRK",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-123456,msid-87303918,width-600,resizemode-4/87303918.jpg"
+      },
+      {
+        "title": "Shehnaaz needs guidance of Sidharth's mom",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-123456,msid-87302960,width-600,resizemode-4/87302960.jpg"
+      }
+    ],
+    "sectionFourHeadlineRight": [
+      {
+        "title": "Bikini-clad Disha chills on a beach",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-36434,msid-87304445,width-600,resizemode-4/87304445.jpg"
+      },
+      {
+        "title": "Pics: Katrina & Vicky to tie the knot",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-22380,msid-87299904,width-600,resizemode-4/87299904.jpg"
+      },
+      {
+        "title": "Former VS model Selita's pics go viral",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-30924,msid-87303515,width-600,resizemode-4/87303515.jpg"
+      },
+      {
+        "title": "Kiara makes heads turn in denim shorts",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-27168,msid-87286802,width-600,resizemode-4/87286802.jpg"
+      },
+      {
+        "title": "Shireen's wedding reception",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-44394,msid-87299393,width-600,resizemode-4/87299393.jpg"
+      },
+      {
+        "title": "Meet 8-YO model June Wisse",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-480639,msid-87300488,width-600,resizemode-4/87300488.jpg"
+      },
+      {
+        "title": "Viral chats of Aryan Khan & Ananya",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-19264,msid-87284781,width-600,resizemode-4/87284781.jpg"
+      },
+      {
+        "title": "Salman twins in black with Iulia at party",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-21562,msid-87284320,width-600,resizemode-4/87284320.jpg"
+      },
+      {
+        "title": "Wedding pics of Marathi actor Suyash",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-26088,msid-87277971,width-600,resizemode-4/87277971.jpg"
+      }
+    ],
+    "sectionFourHeadlineMiddle": [
+      {
+        "title": "'Sardar Udham projects hatred towards British'"
+      },
+      {
+        "title": "Vicky & Katrina visit their manager together"
+      },
+      {
+        "title": "Saba Ali Khan drops an unseen pic of Jeh"
+      },
+      {
+        "title": "SRK’s business ventures apart from films"
+      },
+      {
+        "title": "Janhvi on shooting schedule of Helen remake"
+      },
+      {
+        "title": "SRK's manager's old post for Aryan goes viral"
+      },
+      {
+        "title": "Exercise to lower high BP instantly"
+      },
+      {
+        "title": "Which playing card are you as per your zodiac?"
+      },
+      {
+        "title": "Steps to VOTE for India's Manasa Varanasi"
+      },
+      {
+        "title": "Neha's breastfeeding photo with her newborn"
+      },
+      {
+        "title": "Arhaan: Paras mujhe bhoola nahi paa raha hai"
+      },
+      {
+        "title": "Be beach-ready like the hottest divas in a bikini"
+      },
+      {
+        "title": "Be beach-ready like the hottest divas in a bikini"
+      },
+      {
+        "title": "Happy Birthday, Dileep: Best movies of the actor"
+      }
+    ],
+  
+    "citySectionOne": [
+      {
+        "title": "Delhi: Hospitals under pressure as dengue cases soar"
+      },
+      {
+        "title": "Bedridden elderly professors hang selves in Delhi"
+      },
+      {
+        "title": "Tiwari urges all to follow protocols"
+      },
+      {
+        "title": "SDMC picks 10 wards to boost primary healthcare facilitie"
+      },
+      {
+        "title": "Farmer protest: Plea seeks FIR against Haryana CM"
+      }
+    ],
+    "citySectionTwo": [
+      {
+        "title": "Ayodhya included in Delhi govt’s ‘Tirth Yatra Yojana’, to be"
+      },
+      {
+        "title": "Delhi govt includes Ayodhya in free Tirth Yatra scheme for"
+      },
+      {
+        "title": "90% in Delhi have antibodies against Covid: Survey"
+      },
+      {
+        "title": "DDMA okays Chhath puja celebrations at 'fixed sites'"
+      }
+    ],
+    "coranaVirusSectionOne": [
+      {
+        "title": "Shashi Tharoor credits government for Covid vaccin"
+      },
+      {
+        "title": "Wishes pour in from WHO, Bhutan, Sri Lanka as In"
+      },
+      {
+        "title": "Home minister Amit Shah congratulates country on "
+      },
+      {
+        "title": "India shows exemplary capabilities to ensure people"
+      },
+      {
+        "title": "Covishield may offer over 90% protection against death"
+      }
+    ],
+    "coranaVirusSectionTwo": [
+      {
+        "title": "Centre has asked for vaccinating those over 17 years against"
+      },
+      {
+        "title": "Biological E hopes to roll out Covid-19 vaccine Corbevax by"
+      },
+      {
+        "title": "Schools, colleges in Bengal to reopen from November 15:"
+      },
+      {
+        "title": "Serum Institute could export 20-30 million vaccine doses a"
+      }
+    ],
+    "indiaFightCovid": [
+      {
+        "imageURL": "https://static.toiimg.com/thumb/87307441.cms?width=150&resizemode=4&imgsize=50204",
+        "title": "New sublineage of coronavirus, AY.4.2 classified as a rising"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/87184068.cms?width=680&height=512&imgsize=66468",
+        "title": "Getting a flu shot can prevent some severe COVID-symptoms"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/87162873.cms?width=680&height=512&imgsize=35302",
+        "title": "Covaxin for kids : What are the side-effects we can expect?"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/87129087.cms?width=680&height=512&imgsize=46862",
+        "title": "How to tell if your long flu case was actually COVID"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/87106336.cms?width=680&height=512&imgsize=27342",
+        "title": "Mixing Covaxin and Covishield safe and effective: ICMR"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/87059981.cms?width=680&height=512&imgsize=34790",
+        "title": "Children can spread COVID and its variants: Study"
+      }
+    ],
+    "sectionFiveExplore": [
+      {
+        "imageURL": "https://static.toiimg.com/thumb/',width-1000,height-562,',msid-87314400,imgsize=187562/87314400.jpg",
+        "title": "Facebook Leaks explained in 5 Points"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/',width-1000,height-562,',msid-87314295,imgsize=52746/87314295.jpg",
+        "title": "How narcotics law become a tool to exploit the poor"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/width-1000,height-562,imgsize-93680,overlay-toiplus_opinion,msid-87299921/87299921.jpg",
+        "title": "How an outsider became BJP's top man in Karnataka"
+      }
+    ],
+    "lifestyle": [
+      {
+        "mainTitle": "HEALTH & FITNESS",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-172564,msid-87315706,width-500,resizemode-4/87315706.jpg",
+        "titleOne": "Weight loss: Three drinks to spike your metabolism",
+        "titleTwo": "Surprising health benefits of seaweed"
+      },
+      {
+        "mainTitle": "FASHION",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-934559,msid-87305953,width-500,resizemode-4/87305953.jpg",
+        "titleOne": "All the bling outfits rocked by Mouni Roy",
+        "titleTwo": "Bhumi's lehenga is certainly not run-of-the-mill"
+      },
+      {
+        "mainTitle": "RELATIONSHIP",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-1027285,msid-87310864,width-500,resizemode-4/87310864.jpg",
+        "titleOne": "Things you can, cannot control in a marriage",
+        "titleTwo": "5 people share first-time stories of sex after marriage"
+      },
+      {
+        "mainTitle": "BEAUTY",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-96372,msid-87305507,width-500,resizemode-4/87305507.jpg",
+        "titleOne": "Six homemade night packs for a glowing skin",
+        "titleTwo": "Makeup artists want you to stop believing these things"
+      },
+      {
+        "mainTitle": "PARENTING",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-38670,msid-87313484,width-500,resizemode-4/87313484.jpg",
+        "titleOne": "5 ways to help a child deal with anger",
+        "titleTwo": "Celebrities' postpartum struggles"
+      },
+      {
+        "mainTitle": "KOREAN WAVE",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-91546,msid-87287054,width-500,resizemode-4/87287054.jpg",
+        "titleOne": "Truth about Kim Seon Ho’s relationship",
+        "titleTwo": "aespa's Giselle apologises for mouthing racial slur"
+      },
+      {
+        "mainTitle": "TRAVEL",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-123456,msid-87301696,width-500,resizemode-4/87301696.jpg",
+        "titleOne": "Singapore is now open for Indians; here are its top travel",
+        "titleTwo": "10 best homestays in Himachal Pradesh for winter"
+      },
+      {
+        "mainTitle": "BEAUTY PAGEANTS",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-169135,msid-87149835,width-500,resizemode-4/87149835.jpg",
+        "titleOne": "Roshni Dada wins Supermodel of the Year S2",
+        "titleTwo": "Manika Sheokand joins beach cleaning drive"
+      },
+      {
+        "mainTitle": "FEMINA",
+        "imageURL": "https://femina.wwmindia.com/content/2021/oct/parenting-thumb1634902185.jpg",
+        "titleOne": "We Can’t Get Over Kourtney’s Straight Hair",
+        "titleTwo": "Creator Neha Nagar Puts Up Content On Finance & Taxation"
+      }
+    ],
+    "sectionSixTwoLowerTwo": [
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-46296,msid-87317626,width-200,resizemode-4/87317626.jpg",
+        "title": "Why this father is happy to lose this swimming race"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-49072,msid-87324651,width-200,resizemode-4/87324651.jpg",
+        "title": "Google doodle: Tributes paid to founder of judo Kano Jigoro"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-73450,msid-87301062,width-200,resizemode-4/87301062.jpg",
+        "title": "SRK's manager Pooja's old post praising Aryan goes viral"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-3215263,msid-87287691,width-200,resizemode-4/87287691.jpg",
+        "title": "Smog season: 5 ways surrounding states are behind Delhi’s winter pollution"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-49292,msid-87314784,width-200,resizemode-4/87314784.jpg",
+        "title": "'Fake' caste certificate row: Sameer Wankhede's family refutes Nawab Malik's allegations, says"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-76692,msid-87304546,width-200,resizemode-4/87304546.jpg",
+        "title": "Old pictures of Aryan Khan and Ananya Panday go viral"
+      }
+    ],
+    "sectionSixThreeCard": [
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-36296,msid-85267115,width-250,resizemode-4/85267115.jpg",
+        "title": "Headphones & Speakers",
+        "discount": "80",
+        "dealCount": "140"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-27168,msid-86896633,width-250,resizemode-4/86896633.jpg",
+        "title": "Budget Laptops",
+        "discount": "40",
+        "dealCount": "130"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-38178,msid-85646084,width-250,resizemode-4/85646084.jpg",
+        "title": "Beauty & Grooming",
+        "discount": "45",
+        "dealCount": "160"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-46356,msid-86896089,width-250,resizemode-4/86896089.jpg",
+        "title": "Budget LED TVs",
+        "discount": "65",
+        "dealCount": "130"
+      }
+    ],
+    "sectionSixFourCard": [
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-123456,msid-87300854,width-200,resizemode-4/87300854.jpg",
+        "title": "Large capacity electric kettles for boiling water in pantries and common"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-123456,msid-87300690,width-200,resizemode-4/87300690.jpg",
+        "title": "Cricket Bats Online: Splendid Options From GM, SS, SG, DSC, Wolfer, And Many Others"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-123456,msid-87279999,width-200,resizemode-4/87279999.jpg",
+        "title": "Bluetooth microphones: Affordable options that you can buy online"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-123456,msid-87274534,width-200,resizemode-4/87274534.jpg",
+        "title": "Gaming laptops under 60,000: Top options for a rich gaming experience"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-123456,msid-87280824,width-200,resizemode-4/87280824.jpg",
+        "title": "Popular Room Heaters 2021: Top Choices From Havells, Bajaj, Crompton"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-123456,msid-87274719,width-200,resizemode-4/87274719.jpg",
+        "title": "Winter care essentials: Up to 80% off on lotions, shampoos, straighteners,"
+      }
+    ],
+  
+    "sportsSectionOne": [
+      {
+        "title": "From here on we have to lift our level: Namibia skipp"
+      },
+      {
+        "title": "Moenchengladbach thrash Bayern 5-0"
+      },
+      {
+        "title": "Juventus slip to last-gasp defeat at home to Sassuolo"
+      },
+      {
+        "title": "Vallecano hand Barcelona second successive defeat"
+      },
+      {
+        "title": "Chopra, Dahiya among 11 recommended for Khel Ratna"
+      }
+    ],
+    "sportsSectionTwo": [
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-87269432,msid-87269432,width-600,resizemode-4/87269432.jpg",
+        "title": "Sachin Tendulkar, Virender Sehwag back Mohammed Shami amid online abuse after India-"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-87254210,msid-87254210,width-600,resizemode-4/87254210.jpg",
+        "title": "Would you drop Rohit Sharma from T20Is, asks Virat Kohli"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-59674,msid-87324171,width-600,resizemode-4/87324171.jpg",
+        "title": "Australia's batters face wily Sri Lanka spinners in tricky clash"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-109610,msid-87317168,width-600,resizemode-4/87317168.jpg",
+        "title": "T20 WC: Namibia extend impressive run with win over Scotland"
+      }
+    ],
+    "sportsSectionThree": [
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-65236,msid-87312194,width-100,resizemode-4/87312194.jpg",
+        "title": "T20 WC: Clinical England thrash Bangladesh by 8 wickets"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-30294,msid-87316008,width-100,resizemode-4/87316008.jpg",
+        "title": "Hardik fit for NZ game, bowls in nets for the first time in months"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-36058,msid-87316280,width-100,resizemode-4/87316280.jpg",
+        "title": "French Open: Sindhu, Lakshya win, Saina retires midway"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-88206,msid-87301953,width-100,resizemode-4/87301953.jpg",
+        "title": "Why India vs New Zealand could be a do or die clash for both teams"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-27160,msid-87310910,width-100,resizemode-4/87310910.jpg",
+        "title": "Ganguly to relinquish ATKMB role to avoid conflict of interest"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-59914,msid-87316761,width-100,resizemode-4/87316761.jpg",
+        "title": "Football's five-substitute option to be made permanent"
+      }
+    ],
+    "shoppingDestination": [
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-71090,msid-86835565,width-200,resizemode-4/86835565.jpg",
+        "title": "Laptops under 30,000: Highly Rated by Experts"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-175014,msid-87302357,width-200,resizemode-4/87302357.jpg",
+        "title": "Cardio workout essentials that you must have at"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-47202,msid-87300690,width-200,resizemode-4/87300690.jpg",
+        "title": "Cricket Bats Online: Splendid Options From GM,"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-22658,msid-86634592,width-200,resizemode-4/86634592.jpg",
+        "title": "50-Inch Smart LED TVs: Bigger Entertainment"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-52860,msid-87312324,width-200,resizemode-4/87312324.jpg",
+        "title": "Diwali gifts for employees: Best gifting options to"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-29226,msid-87308389,width-200,resizemode-4/87308389.jpg",
+        "title": "Kadha green tea: Take care of your health during"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-55148,msid-87300854,width-200,resizemode-4/87300854.jpg",
+        "title": "Kadha green tea: Take care of your health during"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-33240,msid-87302236,width-200,resizemode-4/87302236.jpg",
+        "title": "Kadha green tea: Take care of your health during"
+      }
+    ],
+    "sectionTechOne": [
+      {
+        "title": "​Amazon Grand Finale Days: Geysers with remote contro"
+      },
+      {
+        "title": "Amazon Diwali sale: Blockbuster deals on smart TVs fro"
+      },
+      {
+        "title": "Age of Empires 4 to launch today: 10 things you should "
+      },
+      {
+        "title": "Some OnePlus 8 users are not able to use Google Pay "
+      },
+      {
+        "title": "How Amazon has averted 'Apple pains' hurting Facebook"
+      }
+    ],
+    "sectionTechTwo": [
+      {
+        "title": "Vivo X70 Pro Plus review: Raises the ba"
+      },
+      {
+        "title": "Realme 8i review: Pocket-friendly gaming smartphone"
+      },
+      {
+        "title": "Apple iPhone 13 Review: The one that most people will buy"
+      },
+      {
+        "title": "Samsung Galaxy M52 5G review: Smart design, good"
+      }
+    ],
+    "sectionBusinessOne": [
+      {
+        "title": "RBI: All micro loans must be collateral-free"
+      },
+      {
+        "title": "Kamath to be first NaBFID chairman"
+      },
+      {
+        "title": "Maruti Q2 net down 66% on rising costs"
+      },
+      {
+        "title": "US stocks end lower on Wall Street, easing back from rec"
+      },
+      {
+        "title": "Aluminium makers send SOS to PMO over coal shortag"
+      }
+    ],
+    "sectionBusinessTwo": [
+      {
+        "title": "Indians paid Rs 9,700 crore in hidden forex fees"
+      },
+      {
+        "title": "Reliance Brands JV bags rights of Lee Cooper"
+      },
+      {
+        "title": "Unexcited by low EV volumes: Maruti"
+      },
+      {
+        "title": "Paytm IPO opens on 8th, Swiss Re boards non-life"
+      }
+    ],
+    "sectionBusinessThree": [
+      {
+        "title": "Equity indices open in green, Sensex up by 149 points",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-87305986,msid-87305986,width-100,resizemode-4/87305986.jpg"
+      },
+      {
+        "title": "Time for India to embark on new trajectory of sustainable and inclusive growth, says RBI article",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-87133956,msid-87133956,width-100,resizemode-4/87133956.jpg"
+      },
+      {
+        "title": "Future asks Delhi court to quash Singapore panel's block on asset sale",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-66160,msid-87316010,width-100,resizemode-4/87316010.jpg"
+      },
+      {
+        "title": "Air India, AI Express say 'ta-ta' to credit sales",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-62260,msid-87315436,width-100,resizemode-4/87315436.jpg"
+      }
+    ],
+    "worldOne": [
+      {
+        "title": "Bengali Hindus protest outside UK Parl and BBC ov"
+      },
+      {
+        "title": "SpaceX Crew-3 mission to help test space tech: Raja Ch"
+      },
+      {
+        "title": "Taliban-appointed top diplomat, head of US Mission to"
+      },
+      {
+        "title": "Pakistan: 8 dead as Islamists clash with police; Ranger"
+      },
+      {
+        "title": "US asks UK court to permit extradition of WikiLeaks"
+      }
+    ],
+    "worldTwo": [
+      {
+        "title": "G20 leaders to meet in the shadow of Mussolini's palaces"
+      },
+      {
+        "title": "New Zealand eases quarantine but won't welcome tourists yet"
+      },
+      {
+        "title": "United States issues its 1st passport with 'X' gender marker"
+      },
+      {
+        "title": "Chinese hypersonic test like a 'Sputnik moment': Top US"
+      }
+    ],
+    "acrossToiOne": [
+      {
+        "title": "10 weight loss foods under 100 calories"
+      },
+      {
+        "title": "Warning signs of extremely low B12 levels"
+      },
+      {
+        "title": "Horoscope 28 October: What your stars say"
+      },
+      {
+        "title": "UPSC CDS Exam-II 2021 admit card released, here's"
+      }
+    ],
+    "acrossToiTwo": [
+      {
+        "title": "TRB TN Lecturers CBT Admit Card released, here's direct link"
+      },
+      {
+        "title": "One exercise to lower high blood pressure instantly"
+      },
+      {
+        "title": "Fitness secrets to steal from BLACKPINK's Jennie"
+      },
+      {
+        "title": "Decor tips to impress in-laws this festive season"
+      }
+    ],
+    "acrossToiThree": [
+      {
+        "title": "IOS Sports & Entertainment completes 15 years in sports industry",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-58247,msid-77233753,width-100,resizemode-4/77233753.jpg"
+      },
+      {
+        "title": "TOI launches PC Paathshala in association with Intel",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-280346,msid-76368703,width-100,resizemode-4/76368703.jpg"
+      },
+      {
+        "title": "TOI Dialogues with CP Gurnani. MD & CEO, Tech Mahindra",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-70086,msid-76275888,width-100,resizemode-4/76275888.jpg"
+      },
+      {
+        "title": "The Disguise' trailer: Deeply engaging and moving the film throws light on intolerance and prejudice",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-89939,msid-76401881,width-100,resizemode-4/76401881.jpg"
+      }
+    ],
+    "sponserStory": [
+      {
+        "title": "How to save money on your car insurance",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-1339671,msid-87130697,width-200,resizemode-4/87130697.jpg"
+      },
+      {
+        "title": "Meet the next revolution in TV: Sony BRAVIA XR",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-97254,msid-87103678,width-200,resizemode-4/87103678.jpg"
+      },
+      {
+        "title": "Atul Khatri’s tips for managing glucose levels",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-186764,msid-87109202,width-200,resizemode-4/87109202.jpg"
+      },
+      {
+        "title": "ADVT: Beam Suntory introduces new spirits",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-57484,msid-86839999,width-200,resizemode-4/86839999.jpg"
+      },
+      {
+        "title": "Check out the top 11 high-performance",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-474221,msid-87021665,width-200,resizemode-4/87021665.jpg"
+      },
+      {
+        "title": "Risland Sky Mansion: A perfect #MatchMadeInHea",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-38600,msid-86833850,width-200,resizemode-4/86833850.jpg"
+      },
+      {
+        "title": "Register free to Join NVIDIA GTC (Nov. 8-11)",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-63974,msid-86649873,width-200,resizemode-4/86649873.jpg"
+      },
+      {
+        "title": "ADVT: Invest in crypto with PNP Coin",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-31528,msid-86636722,width-200,resizemode-4/86636722.jpg"
+      }
+    ],
+    "travelOne": [
+      {
+        "title": "Direct flights between Delhi-Sydney to start from No"
+      },
+      {
+        "title": "Hop on a direct flight between Shillong and Dibrugarh"
+      },
+      {
+        "title": "Get close to nature this Diwali at these resorts around Delhi"
+      },
+      {
+        "title": "Italy allows essential purpose travel from India"
+      },
+      {
+        "title": "10 Himachal homestays you can snuggle up in this winter"
+      }
+    ],
+    "travelTwo": [
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-163446,msid-87301888,width-600,resizemode-4/87301888.jpg",
+        "title": "10 countries that celebrate Diwali like India"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-20788,msid-87372306,width-600,resizemode-4/87372306.jpg",
+        "title": "Indians can visit these international destinations this Diwali"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-141840,msid-87369851,width-600,resizemode-4/87369851.jpg",
+        "title": "UK removes all the countries from its COVID-19 'red list'"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-124328,msid-87366694,width-600,resizemode-4/87366694.jpg",
+        "title": "5 Hindu temples outside India that are worth a visit"
+      }
+    ],
+    "travelThree": [
+      {
+        "title": "Indians vaxxed with Covishield can now travel to Poland, no quarantine required",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-66780,msid-87353737,width-100,resizemode-4/87353737.jpg"
+      },
+      {
+        "title": "Reasons why you should explore Gujarat",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-29176,msid-87348375,width-100,resizemode-4/87348375.jpg"
+      },
+      {
+        "title": "A trip to the world's most haunted places this Halloween",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-91270,msid-87333653,width-100,resizemode-4/87333653.jpg"
+      },
+      {
+        "title": "Countries that celebrate Halloween in a grand way!",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-98502,msid-87333989,width-100,resizemode-4/87333989.jpg"
+      },
+      {
+        "title": "Uttarakhand is developing an adventurous cave tourism circuit",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-13052,msid-87340185,width-100,resizemode-4/87340185.jpg"
+      },
+      {
+        "title": "Cuba to welcome tourists without quarantine requirements from Nov 15",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-73126,msid-87337240,width-100,resizemode-4/87337240.jpg"
+      }
+    ],
+    "recipeOne": [
+      {
+        "title": "7 iconic instant noodles from around the world"
+      },
+      {
+        "title": "Dinner timings across the world"
+      },
+      {
+        "title": "Foods causing hormone imbalance in your body"
+      },
+      {
+        "title": "Eating right can make you feel happy"
+      },
+      {
+        "title": "Detox drinks to improve metabolism"
+      }
+    ],
+    "recipeTwo": [
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-67064,msid-87332233,width-600,resizemode-4/87332233.jpg",
+        "title": "Watch: Homemade Chocolate Truffle Cake Jar for Diwali gifting"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-99899,msid-87378378,width-600,resizemode-4/87378378.jpg",
+        "title": "Watch: How to make Aloo Peanut Bhel"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-98025,msid-87378409,width-600,resizemode-4/87378409.jpg",
+        "title": "Watch: How to make Dry Fruits and Dates Shake"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-80508,msid-87378425,width-600,resizemode-4/87378425.jpg",
+        "title": "Watch: How to make Crispy Potato Wedges"
+      }
+    ],
+    "recipeThree": [
+      {
+        "title": "Besan Milk Cake",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-109814,msid-87270052,width-100,resizemode-4/87270052.jpg"
+      },
+      {
+        "title": "Banana Kofta Curry",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-24152,msid-87269553,width-100,resizemode-4/87269553.jpg"
+      },
+      {
+        "title": "Paneer Barfi",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-54840,msid-87248103,width-100,resizemode-4/87248103.jpg"
+      },
+      {
+        "title": "Chocolate Mohanthal",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-107150,msid-87247620,width-100,resizemode-4/87247620.jpg"
+      },
+      {
+        "title": "Garlic Soup",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-55392,msid-87198248,width-100,resizemode-4/87198248.jpg"
+      }
+    ],
+    "healthOne": [
+      {
+        "title": "The explanation behind the Burari deaths"
+      },
+      {
+        "title": "How to know if you are at risk of a brain attack"
+      },
+      {
+        "title": "Diabetes is not caused by eating sugar and other facts"
+      },
+      {
+        "title": "Puneeth Rajkumar dies from a cardiac arrest"
+      },
+      {
+        "title": "What makes high blood pressure a silent killer"
+      }
+    ],
+    "healthTwo": [
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-62364,msid-87368393,width-600,resizemode-4/87368393.jpg",
+        "title": "6 risk factors of heart disease in 40s"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-50462,msid-87366907,width-600,resizemode-4/87366907.jpg",
+        "title": "Signs your dengue infection is turning severe"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-24986,msid-87344939,width-600,resizemode-4/87344939.jpg",
+        "title": "Yoga asanas to keep festival weight gain away"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-52744,msid-87366589,width-600,resizemode-4/87366589.jpg",
+        "title": "Weight loss: How I brought down my body fat to 9%"
+      }
+    ],
+    "healthThree": [
+      {
+        "title": "Suffering from the flu? Top ways to recover faster",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-88994,msid-87344263,width-100,resizemode-4/87344263.jpg"
+      },
+      {
+        "title": "BTS Kim Taehyung does THESE exercises to stay fit",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-64716,msid-87335820,width-100,resizemode-4/87335820.jpg"
+      },
+      {
+        "title": "6 simple signs of a brain stroke",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-79752,msid-87343087,width-100,resizemode-4/87343087.jpg"
+      },
+      {
+        "title": "Weight loss: 5 healthy rice alternatives",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-76142,msid-87340723,width-100,resizemode-4/87340723.jpg"
+      },
+      {
+        "title": "I lost over 25 kgs by minimizing rice and roti",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-55674,msid-87340038,width-100,resizemode-4/87340038.jpg"
+      },
+      {
+        "title": "Can your genes explain the difference in workout results?",
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-55744,msid-87344731,width-100,resizemode-4/87344731.jpg"
+      }
+    ],
+    "television": [
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-46780,msid-87402700,width-200,resizemode-4/87402700.jpg",
+        "title": "Candid moments of Kannada TV celebs with Appu"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-94042,msid-87399327,width-200,resizemode-4/87399327.jpg",
+        "title": "Celebs share fond memories of Puneeth"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-99232,msid-87387093,width-200,resizemode-4/87387093.jpg",
+        "title": "#RIP PuneethRajkumar: Kannada celebs"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-55906,msid-87390560,width-200,resizemode-4/87390560.jpg",
+        "title": "Akul Balaji pens an emotional note to late actor Puneeth"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-199324,msid-87390253,width-200,resizemode-4/87390253.jpg",
+        "title": "BB Tamil 5: Raju and Ciby become the best"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-63416,msid-87388217,width-200,resizemode-4/87388217.jpg",
+        "title": "In pics: When Sourav Ganguly had a ramp walk"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-65934,msid-87388133,width-200,resizemode-4/87388133.jpg",
+        "title": "BB Telugu 5: Sunny gets jailed"
+      },
+      {
+        "imageURL": "https://static.toiimg.com/thumb/imgsize-26494,msid-87390545,width-200,resizemode-4/87390545.jpg",
+        "title": "Aniruddha Jatkar mourns Puneeth Rajkumar's demise"
+      }
+    ],
+    "autoOne":[
+      {
+        "title": "Mahindra XUV700 charts world's highest motorab"
+      },
+      {
+        "title": "Komaki teases electric cruiser motorcycle, plans lau"
+      },
+      {
+        "title": "Tata Power crosses 1,000 EV charging stations mark "
+      },
+      {
+        "title": "Toyota set to test hydrogen combustion engines in ra"
+      },
+      {
+        "title": "Bullet or Classic? Royal Enfield portrays history throug"
+      }
+    ],
+    "autoTwo":[
+      {
+        "title": "Maruti Suzuki to launch EVs only after 2025: Bhargava"
+      },
+      {
+        "title": "Govt planning semiconductor design-linked incentive policy"
+      },
+      {
+        "title": "JLR unveils new Range Rover, launch in early-2022"
+      },
+      {
+        "title": "SAIC partners with HERE, to power MG’s connected cars in"
+      }
+    ],
+    "autoThree":[
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-2019709,msid-87227022,width-100,resizemode-4/87227022.jpg",
+        "title":"Electric to replace diesel? Mercedes-Benz responds"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-1147708,msid-87227271,width-100,resizemode-4/87227271.jpg",
+        "title":"Ola Electric inaugurates first hypercharger at future factory"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-1339594,msid-87173992,width-100,resizemode-4/87173992.jpg",
+        "title":"How MG Astor stands apart in pool of compact SUVs"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-804917,msid-87176526,width-100,resizemode-4/87176526.jpg",
+        "title":"Govt will ask all vehicle makers to produce flex-fuel engines: Gadkari"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-1103389,msid-87133013,width-100,resizemode-4/87133013.jpg",
+        "title":"Volvo S90, XC60 mild-hybrid launched at Rs 61.90 lakh"
+      }
+    ],
+    "educationOne":[
+      {
+        "title": "CGPSC Recruitment 2021: Notification for ​641 Med"
+      },
+      {
+        "title": "CBSE launches Veer Gatha project to inform students a"
+      },
+      {
+        "title": "Keralite secures first rank in IFS exam"
+      },
+      {
+        "title": "Mumbai: Private students get second chance to register"
+      },
+      {
+        "title": "Kolkata: Schools will have different timings for differ"
+      }
+    ],
+    "educationTwo":[
+      {
+        "title": "Many schools ignore Diwali vacation orders"
+      },
+      {
+        "title": "RRC NCR Apprentice Admit Card 2021 released, download here"
+      },
+      {
+        "title": "Govt claims Uttarakhand charging ‘lowest’ MBBS fee in country"
+      },
+      {
+        "title": "MP High Court Recruitment 2021: Notification for 708"
+      }
+    ],
+    "educationThree":[
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-35150,msid-87393930,width-100,resizemode-4/87393930.jpg",
+        "title":"Kerala University to set up international study centre"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-70352,msid-87394151,width-100,resizemode-4/87394151.jpg",
+        "title":"AUD gets incubation centre for students"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-58886,msid-87372291,width-100,resizemode-4/87372291.jpg",
+        "title":"UPSC Civil Services Prelims Result 2021 announced, check here"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-45976,msid-87365715,width-100,resizemode-4/87365715.jpg",
+        "title":"Rajasthan Police Constable Vacancy 2021: Notification for 4438 posts released, application from Nov 10"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-136262,msid-87359937,width-100,resizemode-4/87359937.jpg",
+        "title":"Teachers miffed at govt’s attempt to ‘monitor’ GU classes"
+      }
+    ],
+    "opinionOne":[
+      {
+        "title": "Why we must value friends, not just family: Friends"
+      },
+      {
+        "title": "Technology, agribusiness and what we eat: Big, m"
+      },
+      {
+        "title": "Privacy & security: SC makes a forceful intervention o"
+      },
+      {
+        "title": "Hearts and minds: In Kashmir, the key goal for govt is to "
+      },
+      {
+        "title": "A toast to butter: The many shades of a white revolu"
+      }
+    ],
+    "opinionTwo":[
+      {
+        "title": "We shouldn’t judge historical figures by the values of today"
+      },
+      {
+        "title": "COP26: Realistic expectations – Glasgow will not"
+      },
+      {
+        "title": "Dalal St = Main St: Market correction: Real economy will"
+      },
+      {
+        "title": "Women can tech: Too few female-led startups. Govt, VCs"
+      }
+    ],
+    "opinionThree":[
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-33958,msid-87367777,width-100,resizemode-4/87367777.jpg",
+        "title":"The explanation behind the Burari deaths"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-88744,msid-87367221,width-100,resizemode-4/87367221.jpg",
+        "title":"Foods that cause hormone imbalance"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-37670,msid-87340511,width-100,resizemode-4/87340511.jpg",
+        "title":"Best essential oils for a beautiful skin"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-119708,msid-87365108,width-100,resizemode-4/87365108.jpg",
+        "title":"Types of books to read as per your zodiac sign"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-33318,msid-87338259,width-100,resizemode-4/87338259.jpg",
+        "title":"10 times Aryan Khan reminded us of SRK"
+      }
+    ],
+    "mediaWire":[
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-59840,msid-87365731,width-200,resizemode-4/87365731.jpg",
+        "title":"Search Console Analytics API have Discover & More"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-143241,msid-87365772,width-200,resizemode-4/87365772.jpg",
+        "title":"Achieve Your Marketing Goals with the New GA"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-156884,msid-87351438,width-200,resizemode-4/87351438.jpg",
+        "title":"Meet tech-savvy woman farmer from Coorg"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-6644,msid-87340675,width-200,resizemode-4/87340675.jpg",
+        "title":"Search Console Impressions Report due to Infinite"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-236232,msid-87323435,width-200,resizemode-4/87323435.jpg",
+        "title":"Diwali Long Weekend Alert Ahoy!"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-16224,msid-87314979,width-200,resizemode-4/87314979.jpg",
+        "title":"Priority Hints Can Improve Core Web Vitals Score"
+      }
+    ],
+    "evokeOne":[
+      {
+        "title": "‘Pythons live at peace with porcupines in burrows — "
+      },
+      {
+        "title": "To work sustainably"
+      },
+      {
+        "title": "‘Self-employed women build India everyday’"
+      },
+      {
+        "title": "‘The informal economy gives us sustainability. We s"
+      },
+      {
+        "title": "‘We must acknowledge the huge skills of India’s inform"
+      }
+    ],
+    "evokeTwo":[
+      {
+        "title": "A Better Energy"
+      },
+      {
+        "title": "'India is building vast low-income housing — its design will have"
+      },
+      {
+        "title": "'Access to energy enables girls to attend school just like"
+      },
+      {
+        "title": "‘Equity is paramount to the right type of energy transition"
+      }
+    ],
+    "evokeThree":[
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-29936,msid-86883152,width-100,resizemode-4/86883152.jpg",
+        "title":"‘India’s economy is the informal economy— the rest simply can’t work without it’"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-23688,msid-86698777,width-100,resizemode-4/86698777.jpg",
+        "title":"Diplomacy at Dawn: My notes from watching birds, nature’s winged envoys"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-50100,msid-86499804,width-100,resizemode-4/86499804.jpg",
+        "title":"‘Our lab discovered ambient fluid flows like rain transport microplastics across large distances’"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-25936,msid-86500040,width-100,resizemode-4/86500040.jpg",
+        "title":"‘Phthalates in plastics can impact adult and child health’"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-30260,msid-86499868,width-100,resizemode-4/86499868.jpg",
+        "title":"‘Plastics now have global ecological impacts - we need green intelligence to address this’"
+      }
+    ],
+    "cartoons":[
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-649045,msid-87416296,width-600,resizemode-4/87416296.jpg",
+        "title":"Go, Goan, Gone!"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-92308,msid-87404003,width-600,resizemode-4/87404003.jpg",
+        "title":"Big Tech"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-106250,msid-87389581,width-600,resizemode-4/87389581.jpg",
+        "title":"Aryan Khan released"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-1611755,msid-80785810,width-600,resizemode-4/80785810.jpg",
+        "title":"Supply of Bitcoins limited to 21 million"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-1880447,msid-80683536,width-600,resizemode-4/80683536.jpg",
+        "title":"China's car market saw little impact of Covid in 2020"
+      },
+      {
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-200965,msid-80466862,width-600,resizemode-4/80466862.jpg",
+        "title":"Japan, South Korea have best hospital facilities"
+      }
+    ],
+    "metroCity":[
+      {
+        "mainTitle":"Mumbai NEWS",
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-33832,msid-87433991,width-200,resizemode-4/87433991.jpg",
+        "imageTitle":"Mumbai reports 315 Covid-19 cases, 3 deaths",
+        "titleOne":"Live: No new coronavirus case in Dharavi",
+        "titleTwo":"Mumbai: Five injured in Byculla elevator crash",
+        "titleThree":"Freedom fighter's widow, son and daughter consume poison, die"
+      },
+      {
+        "mainTitle":"Delhi NEWS",
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-40114,msid-87428463,width-200,resizemode-4/87428463.jpg",
+        "imageTitle":"Several Delhi schools set to reopen on Monday",
+        "titleOne":"Live: Delhi records max temp of 29.7° C",
+        "titleTwo":"45 cases in Delhi; +vity rate now 0.08 pc",
+        "titleThree":"Shanties collapse at under-construction mall"
+      },
+      {
+        "mainTitle":"Bengaluru NEWS",
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-34570,msid-87413160,width-200,resizemode-4/87413160.jpg",
+        "imageTitle":"Live: K'taka announces Rajyotsava award",
+        "titleOne":"BH series: Motorists launch online campaign",
+        "titleTwo":"Overhead cables rule puts BBMP in bind",
+        "titleThree":"Rise in calls to childcare helpline in Mysuru"
+      },
+      {
+        "mainTitle":"Hyderabad NEWS",
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-1310570,msid-87416535,width-200,resizemode-4/87416535.jpg",
+        "imageTitle":"Hyd: Incidence of breakthrough infections high among men",
+        "titleOne":"T'gana: Both BJP, TRS confident of victory in Huzurabad",
+        "titleTwo":"Milk vendor murder: Wife, 4 others held in Hyd",
+        "titleThree":"Huzurabad voters poll fearlessly amid tight security"
+      },
+      {
+        "mainTitle":"Kolkata NEWS",
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-44736,msid-87433092,width-200,resizemode-4/87433092.jpg",
+        "imageTitle":"3 of family found dead in W Bengal village",
+        "titleOne":"Local train services resume with 50% capacity",
+        "titleTwo":"Bengal: 1 killed as fire breaks out in Nadia",
+        "titleThree":"WB: Schools start training teachers for hybrid class"
+      },
+      {
+        "mainTitle":"Chennai NEWS",
+        "imageURL":"https://static.toiimg.com/thumb/imgsize-62234,msid-87431362,width-200,resizemode-4/87431362.jpg",
+        "imageTitle":"Bicycle ride to promote girl child edu begins",
+        "titleOne":"Min inspects crackers fair at Island Ground",
+        "titleTwo":"Tamil Nadu not to suspend staff on day they retire",
+        "titleThree":"Give children returning to school warm welcome: Stalin"
+      }
+    ],
+    "stateCityNews":[
+      {
+        "mainTitle":"Agartala NEWS",
+        "titleOne":"Negative report must to enter Tripura from states with high positivity rate",
+        "titleTwo":"TMC rally can be held at old venue: Tripura HC",
+        "titleThree":"ABVP man stabbed, Section 144 imposed in N Tripura district"
+      },
+      {
+        "mainTitle":"Agra NEWS",
+        "titleOne":"22-year-old man from Aligarh arrested for celebrating Pak’s T-20 win against India",
+        "titleTwo":"Uttar Pradesh: Blood count test must for every fever patient, Mathura health officials told",
+        "titleThree":"'UP to play critical role in achieving $400bn merchandise export target in current fiscal'"
+      },
+      {
+        "mainTitle":"Ajmer NEWS",
+        "titleOne":"Rajasthan farmers jittery over low supply of fertilisers",
+        "titleTwo":"More than 50% applicants give Rajasthan Administrative Services 2021 prelims a miss",
+        "titleThree":"Residents demand water supply in Ajmer"
+      },
+      {
+        "mainTitle":"Amaravati NEWS",
+        "titleOne":"Andhra Pradesh: BJP accuses YSRC of prompting bogus voting in Badvel bypolls",
+        "titleTwo":"Andhra Pradesh: Endowments commissioner sworn in as TTD ex-officio member",
+        "titleThree":"EC issues notification to fill 3 vacant seats in AP legislative council"
+      },
+      {
+        "mainTitle":"Ahmedabad NEWS",
+        "titleOne":"Active Covid cases in Gujarat above 200 again",
+        "titleTwo":"Milk income lures Kutch youths to ‘restock’ camels",
+        "titleThree":"Dholka industries need to revive lake: Gujarat HC"
+      },
+      {
+        "mainTitle":"Allahabad NEWS",
+        "titleOne":"Husband held for killing wife in UP's Daraganj",
+        "titleTwo":"‘Amit Shah will lay foundation of university in Azamgarh on Nov 13’",
+        "titleThree":"Handicraft and indigenous decor attract customers, this Diwali"
+      },
+      {
+        "mainTitle":"Amritsar NEWS",
+        "titleOne":"Tikri protest site: 5feet-wide passage for pedestrians, two-wheelers from 7am to 8pm",
+        "titleTwo":"No farmer will think of suicide if we are in power: Delhi CM Arvind Kejriwal",
+        "titleThree":"Farm suicides falling in Punjab, unions reject data"
+      },
+      {
+        "mainTitle":"Aurangabad NEWS",
+        "titleOne":"Maharashtra: Average groundwater level up by 2.78m in Marathwada",
+        "titleTwo":"‘Mantralaya at your doorstep’ to cover Bamu",
+        "titleThree":"Yellow alert issued for Kolhapur, Sangli, Satara districts & parts of Marathwada"
+      },
+      {
+        "mainTitle":"Bareilly NEWS",
+        "titleOne":"Family away, thieves loot Rs 8 lakh, valuables from house in Budaun",
+        "titleTwo":"UP: Ex-MLA gets life in prison for rape of college girl in 2008",
+        "titleThree":"Will go to court, not govt, if farmers harassed at procurement centres: Varun Gandhi"
+      },
+      {
+        "mainTitle":"Bhopal NEWS",
+        "titleOne":"Madhya Pradesh bypolls see over 60% turnout",
+        "titleTwo":"Indore: Kids’ sero-survey after Diwali",
+        "titleThree":"MP: Jain monk found hanging in Indore temple"
+      },
+      {
+        "mainTitle":"Agartala NEWS",
+        "titleOne":"Negative report must to enter Tripura from states with high positivity rate",
+        "titleTwo":"TMC rally can be held at old venue: Tripura HC",
+        "titleThree":"ABVP man stabbed, Section 144 imposed in N Tripura district"
+      },
+      {
+        "mainTitle":"Agra NEWS",
+        "titleOne":"22-year-old man from Aligarh arrested for celebrating Pak’s T-20 win against India",
+        "titleTwo":"Uttar Pradesh: Blood count test must for every fever patient, Mathura health officials told",
+        "titleThree":"'UP to play critical role in achieving $400bn merchandise export target in current fiscal'"
+      },
+      {
+        "mainTitle":"Ajmer NEWS",
+        "titleOne":"Rajasthan farmers jittery over low supply of fertilisers",
+        "titleTwo":"More than 50% applicants give Rajasthan Administrative Services 2021 prelims a miss",
+        "titleThree":"Residents demand water supply in Ajmer"
+      },
+      {
+        "mainTitle":"Amaravati NEWS",
+        "titleOne":"Andhra Pradesh: BJP accuses YSRC of prompting bogus voting in Badvel bypolls",
+        "titleTwo":"Andhra Pradesh: Endowments commissioner sworn in as TTD ex-officio member",
+        "titleThree":"EC issues notification to fill 3 vacant seats in AP legislative council"
+      },
+      {
+        "mainTitle":"Ahmedabad NEWS",
+        "titleOne":"Active Covid cases in Gujarat above 200 again",
+        "titleTwo":"Milk income lures Kutch youths to ‘restock’ camels",
+        "titleThree":"Dholka industries need to revive lake: Gujarat HC"
+      },
+      {
+        "mainTitle":"Allahabad NEWS",
+        "titleOne":"Husband held for killing wife in UP's Daraganj",
+        "titleTwo":"‘Amit Shah will lay foundation of university in Azamgarh on Nov 13’",
+        "titleThree":"Handicraft and indigenous decor attract customers, this Diwali"
+      },
+      {
+        "mainTitle":"Amritsar NEWS",
+        "titleOne":"Tikri protest site: 5feet-wide passage for pedestrians, two-wheelers from 7am to 8pm",
+        "titleTwo":"No farmer will think of suicide if we are in power: Delhi CM Arvind Kejriwal",
+        "titleThree":"Farm suicides falling in Punjab, unions reject data"
+      },
+      {
+        "mainTitle":"Aurangabad NEWS",
+        "titleOne":"Maharashtra: Average groundwater level up by 2.78m in Marathwada",
+        "titleTwo":"‘Mantralaya at your doorstep’ to cover Bamu",
+        "titleThree":"Yellow alert issued for Kolhapur, Sangli, Satara districts & parts of Marathwada"
+      },
+      {
+        "mainTitle":"Bareilly NEWS",
+        "titleOne":"Family away, thieves loot Rs 8 lakh, valuables from house in Budaun",
+        "titleTwo":"UP: Ex-MLA gets life in prison for rape of college girl in 2008",
+        "titleThree":"Will go to court, not govt, if farmers harassed at procurement centres: Varun Gandhi"
+      },
+      {
+        "mainTitle":"Bhopal NEWS",
+        "titleOne":"Madhya Pradesh bypolls see over 60% turnout",
+        "titleTwo":"Indore: Kids’ sero-survey after Diwali",
+        "titleThree":"MP: Jain monk found hanging in Indore temple"
+      },
+      {
+        "mainTitle":"Agartala NEWS",
+        "titleOne":"Negative report must to enter Tripura from states with high positivity rate",
+        "titleTwo":"TMC rally can be held at old venue: Tripura HC",
+        "titleThree":"ABVP man stabbed, Section 144 imposed in N Tripura district"
+      },
+      {
+        "mainTitle":"Agra NEWS",
+        "titleOne":"22-year-old man from Aligarh arrested for celebrating Pak’s T-20 win against India",
+        "titleTwo":"Uttar Pradesh: Blood count test must for every fever patient, Mathura health officials told",
+        "titleThree":"'UP to play critical role in achieving $400bn merchandise export target in current fiscal'"
+      },
+      {
+        "mainTitle":"Ajmer NEWS",
+        "titleOne":"Rajasthan farmers jittery over low supply of fertilisers",
+        "titleTwo":"More than 50% applicants give Rajasthan Administrative Services 2021 prelims a miss",
+        "titleThree":"Residents demand water supply in Ajmer"
+      },
+      {
+        "mainTitle":"Amaravati NEWS",
+        "titleOne":"Andhra Pradesh: BJP accuses YSRC of prompting bogus voting in Badvel bypolls",
+        "titleTwo":"Andhra Pradesh: Endowments commissioner sworn in as TTD ex-officio member",
+        "titleThree":"EC issues notification to fill 3 vacant seats in AP legislative council"
+      },
+      {
+        "mainTitle":"Ahmedabad NEWS",
+        "titleOne":"Active Covid cases in Gujarat above 200 again",
+        "titleTwo":"Milk income lures Kutch youths to ‘restock’ camels",
+        "titleThree":"Dholka industries need to revive lake: Gujarat HC"
+      },
+      {
+        "mainTitle":"Allahabad NEWS",
+        "titleOne":"Husband held for killing wife in UP's Daraganj",
+        "titleTwo":"‘Amit Shah will lay foundation of university in Azamgarh on Nov 13’",
+        "titleThree":"Handicraft and indigenous decor attract customers, this Diwali"
+      },
+      {
+        "mainTitle":"Amritsar NEWS",
+        "titleOne":"Tikri protest site: 5feet-wide passage for pedestrians, two-wheelers from 7am to 8pm",
+        "titleTwo":"No farmer will think of suicide if we are in power: Delhi CM Arvind Kejriwal",
+        "titleThree":"Farm suicides falling in Punjab, unions reject data"
+      },
+      {
+        "mainTitle":"Aurangabad NEWS",
+        "titleOne":"Maharashtra: Average groundwater level up by 2.78m in Marathwada",
+        "titleTwo":"‘Mantralaya at your doorstep’ to cover Bamu",
+        "titleThree":"Yellow alert issued for Kolhapur, Sangli, Satara districts & parts of Marathwada"
+      },
+      {
+        "mainTitle":"Bareilly NEWS",
+        "titleOne":"Family away, thieves loot Rs 8 lakh, valuables from house in Budaun",
+        "titleTwo":"UP: Ex-MLA gets life in prison for rape of college girl in 2008",
+        "titleThree":"Will go to court, not govt, if farmers harassed at procurement centres: Varun Gandhi"
+      },
+      {
+        "mainTitle":"Bhopal NEWS",
+        "titleOne":"Madhya Pradesh bypolls see over 60% turnout",
+        "titleTwo":"Indore: Kids’ sero-survey after Diwali",
+        "titleThree":"MP: Jain monk found hanging in Indore temple"
+      },
+      {
+        "mainTitle":"Agartala NEWS",
+        "titleOne":"Negative report must to enter Tripura from states with high positivity rate",
+        "titleTwo":"TMC rally can be held at old venue: Tripura HC",
+        "titleThree":"ABVP man stabbed, Section 144 imposed in N Tripura district"
+      },
+      {
+        "mainTitle":"Agra NEWS",
+        "titleOne":"22-year-old man from Aligarh arrested for celebrating Pak’s T-20 win against India",
+        "titleTwo":"Uttar Pradesh: Blood count test must for every fever patient, Mathura health officials told",
+        "titleThree":"'UP to play critical role in achieving $400bn merchandise export target in current fiscal'"
+      },
+      {
+        "mainTitle":"Ajmer NEWS",
+        "titleOne":"Rajasthan farmers jittery over low supply of fertilisers",
+        "titleTwo":"More than 50% applicants give Rajasthan Administrative Services 2021 prelims a miss",
+        "titleThree":"Residents demand water supply in Ajmer"
+      },
+      {
+        "mainTitle":"Amaravati NEWS",
+        "titleOne":"Andhra Pradesh: BJP accuses YSRC of prompting bogus voting in Badvel bypolls",
+        "titleTwo":"Andhra Pradesh: Endowments commissioner sworn in as TTD ex-officio member",
+        "titleThree":"EC issues notification to fill 3 vacant seats in AP legislative council"
+      },
+      {
+        "mainTitle":"Ahmedabad NEWS",
+        "titleOne":"Active Covid cases in Gujarat above 200 again",
+        "titleTwo":"Milk income lures Kutch youths to ‘restock’ camels",
+        "titleThree":"Dholka industries need to revive lake: Gujarat HC"
+      },
+      {
+        "mainTitle":"Allahabad NEWS",
+        "titleOne":"Husband held for killing wife in UP's Daraganj",
+        "titleTwo":"‘Amit Shah will lay foundation of university in Azamgarh on Nov 13’",
+        "titleThree":"Handicraft and indigenous decor attract customers, this Diwali"
+      },
+      {
+        "mainTitle":"Amritsar NEWS",
+        "titleOne":"Tikri protest site: 5feet-wide passage for pedestrians, two-wheelers from 7am to 8pm",
+        "titleTwo":"No farmer will think of suicide if we are in power: Delhi CM Arvind Kejriwal",
+        "titleThree":"Farm suicides falling in Punjab, unions reject data"
+      },
+      {
+        "mainTitle":"Aurangabad NEWS",
+        "titleOne":"Maharashtra: Average groundwater level up by 2.78m in Marathwada",
+        "titleTwo":"‘Mantralaya at your doorstep’ to cover Bamu",
+        "titleThree":"Yellow alert issued for Kolhapur, Sangli, Satara districts & parts of Marathwada"
+      },
+      {
+        "mainTitle":"Bareilly NEWS",
+        "titleOne":"Family away, thieves loot Rs 8 lakh, valuables from house in Budaun",
+        "titleTwo":"UP: Ex-MLA gets life in prison for rape of college girl in 2008",
+        "titleThree":"Will go to court, not govt, if farmers harassed at procurement centres: Varun Gandhi"
+      },
+      {
+        "mainTitle":"Bhopal NEWS",
+        "titleOne":"Madhya Pradesh bypolls see over 60% turnout",
+        "titleTwo":"Indore: Kids’ sero-survey after Diwali",
+        "titleThree":"MP: Jain monk found hanging in Indore temple"
+      },
+      {
+        "mainTitle":"Agartala NEWS",
+        "titleOne":"Negative report must to enter Tripura from states with high positivity rate",
+        "titleTwo":"TMC rally can be held at old venue: Tripura HC",
+        "titleThree":"ABVP man stabbed, Section 144 imposed in N Tripura district"
+      },
+      {
+        "mainTitle":"Agra NEWS",
+        "titleOne":"22-year-old man from Aligarh arrested for celebrating Pak’s T-20 win against India",
+        "titleTwo":"Uttar Pradesh: Blood count test must for every fever patient, Mathura health officials told",
+        "titleThree":"'UP to play critical role in achieving $400bn merchandise export target in current fiscal'"
+      },
+      {
+        "mainTitle":"Ajmer NEWS",
+        "titleOne":"Rajasthan farmers jittery over low supply of fertilisers",
+        "titleTwo":"More than 50% applicants give Rajasthan Administrative Services 2021 prelims a miss",
+        "titleThree":"Residents demand water supply in Ajmer"
+      },
+      {
+        "mainTitle":"Amaravati NEWS",
+        "titleOne":"Andhra Pradesh: BJP accuses YSRC of prompting bogus voting in Badvel bypolls",
+        "titleTwo":"Andhra Pradesh: Endowments commissioner sworn in as TTD ex-officio member",
+        "titleThree":"EC issues notification to fill 3 vacant seats in AP legislative council"
+      },
+      {
+        "mainTitle":"Ahmedabad NEWS",
+        "titleOne":"Active Covid cases in Gujarat above 200 again",
+        "titleTwo":"Milk income lures Kutch youths to ‘restock’ camels",
+        "titleThree":"Dholka industries need to revive lake: Gujarat HC"
+      },
+      {
+        "mainTitle":"Allahabad NEWS",
+        "titleOne":"Husband held for killing wife in UP's Daraganj",
+        "titleTwo":"‘Amit Shah will lay foundation of university in Azamgarh on Nov 13’",
+        "titleThree":"Handicraft and indigenous decor attract customers, this Diwali"
+      },
+      {
+        "mainTitle":"Amritsar NEWS",
+        "titleOne":"Tikri protest site: 5feet-wide passage for pedestrians, two-wheelers from 7am to 8pm",
+        "titleTwo":"No farmer will think of suicide if we are in power: Delhi CM Arvind Kejriwal",
+        "titleThree":"Farm suicides falling in Punjab, unions reject data"
+      },
+      {
+        "mainTitle":"Aurangabad NEWS",
+        "titleOne":"Maharashtra: Average groundwater level up by 2.78m in Marathwada",
+        "titleTwo":"‘Mantralaya at your doorstep’ to cover Bamu",
+        "titleThree":"Yellow alert issued for Kolhapur, Sangli, Satara districts & parts of Marathwada"
+      },
+      {
+        "mainTitle":"Bareilly NEWS",
+        "titleOne":"Family away, thieves loot Rs 8 lakh, valuables from house in Budaun",
+        "titleTwo":"UP: Ex-MLA gets life in prison for rape of college girl in 2008",
+        "titleThree":"Will go to court, not govt, if farmers harassed at procurement centres: Varun Gandhi"
+      },
+      {
+        "mainTitle":"Bhopal NEWS",
+        "titleOne":"Madhya Pradesh bypolls see over 60% turnout",
+        "titleTwo":"Indore: Kids’ sero-survey after Diwali",
+        "titleThree":"MP: Jain monk found hanging in Indore temple"
+      },
+      {
+        "mainTitle":"Agartala NEWS",
+        "titleOne":"Negative report must to enter Tripura from states with high positivity rate",
+        "titleTwo":"TMC rally can be held at old venue: Tripura HC",
+        "titleThree":"ABVP man stabbed, Section 144 imposed in N Tripura district"
+      },
+      {
+        "mainTitle":"Agra NEWS",
+        "titleOne":"22-year-old man from Aligarh arrested for celebrating Pak’s T-20 win against India",
+        "titleTwo":"Uttar Pradesh: Blood count test must for every fever patient, Mathura health officials told",
+        "titleThree":"'UP to play critical role in achieving $400bn merchandise export target in current fiscal'"
+      },
+      {
+        "mainTitle":"Ajmer NEWS",
+        "titleOne":"Rajasthan farmers jittery over low supply of fertilisers",
+        "titleTwo":"More than 50% applicants give Rajasthan Administrative Services 2021 prelims a miss",
+        "titleThree":"Residents demand water supply in Ajmer"
+      },
+      {
+        "mainTitle":"Amaravati NEWS",
+        "titleOne":"Andhra Pradesh: BJP accuses YSRC of prompting bogus voting in Badvel bypolls",
+        "titleTwo":"Andhra Pradesh: Endowments commissioner sworn in as TTD ex-officio member",
+        "titleThree":"EC issues notification to fill 3 vacant seats in AP legislative council"
+      },
+      {
+        "mainTitle":"Ahmedabad NEWS",
+        "titleOne":"Active Covid cases in Gujarat above 200 again",
+        "titleTwo":"Milk income lures Kutch youths to ‘restock’ camels",
+        "titleThree":"Dholka industries need to revive lake: Gujarat HC"
+      },
+      {
+        "mainTitle":"Allahabad NEWS",
+        "titleOne":"Husband held for killing wife in UP's Daraganj",
+        "titleTwo":"‘Amit Shah will lay foundation of university in Azamgarh on Nov 13’",
+        "titleThree":"Handicraft and indigenous decor attract customers, this Diwali"
+      },
+      {
+        "mainTitle":"Amritsar NEWS",
+        "titleOne":"Tikri protest site: 5feet-wide passage for pedestrians, two-wheelers from 7am to 8pm",
+        "titleTwo":"No farmer will think of suicide if we are in power: Delhi CM Arvind Kejriwal",
+        "titleThree":"Farm suicides falling in Punjab, unions reject data"
+      },
+      {
+        "mainTitle":"Aurangabad NEWS",
+        "titleOne":"Maharashtra: Average groundwater level up by 2.78m in Marathwada",
+        "titleTwo":"‘Mantralaya at your doorstep’ to cover Bamu",
+        "titleThree":"Yellow alert issued for Kolhapur, Sangli, Satara districts & parts of Marathwada"
+      },
+      {
+        "mainTitle":"Bareilly NEWS",
+        "titleOne":"Family away, thieves loot Rs 8 lakh, valuables from house in Budaun",
+        "titleTwo":"UP: Ex-MLA gets life in prison for rape of college girl in 2008",
+        "titleThree":"Will go to court, not govt, if farmers harassed at procurement centres: Varun Gandhi"
+      },
+      {
+        "mainTitle":"Bhopal NEWS",
+        "titleOne":"Madhya Pradesh bypolls see over 60% turnout",
+        "titleTwo":"Indore: Kids’ sero-survey after Diwali",
+        "titleThree":"MP: Jain monk found hanging in Indore temple"
+      }
+      
+    ],
+  
+      "brief": [
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87316018.cms?width=320&height=183&quality=100",
+              "title": "Second dose of Covid vaccine overdue for around 11 crore people, shows Govt data",
+              "content": "Around 11 crore people who have taken the first shot of Covid-19 vaccine have not got themselves jabbed with the second dose even after the expiry of the prescribed interval between two doses, according to government data.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87316245.cms?width=320&height=183&quality=100",
+              "title": "Forex reserves surge by $58.38 billion in first half of FY22: RBI report",
+              "content": "The country's foreign exchange reserves surged by $58.38 billion in April-September 2021 to $635.36 billion, says an RBI report released on Wednesday.",
+              "contentFrom": "BUSINESS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87315509.cms?width=320&height=183&quality=100",
+              "title": "PM Modi will meet Pope Francis on October 30, says Church",
+              "content": "Prime Minister Narendra Modi will meet Pope Francis on October 30 during his European visit commencing later this week, a Catholic Bishops' body in Kerala said on Wednesday.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87313477.cms?width=320&height=183&quality=100",
+              "title": "CBI arrests 6 persons in connection with Rs 6,000 cr remittance scam in Bank of Baroda",
+              "content": "The Central Bureau of Investigation (CBI) on Wednesday arrested 6 persons in connection with the Rs 6,000-crore foreign exchange remittance scam in the Bank of Baroda, which was detected in 2015, officials said.",
+              "contentFrom": "BUSINESS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87311057.cms?width=320&height=183&quality=100",
+              "title": "Neeraj Chopra, Ravi Dahiya, among 11 recommended for Khel Ratna",
+              "content": "Javelin thrower Neeraj Chopra, who became only the second Indian to win an individual Olympic gold at the Tokyo Games, and silver medal-winning wrestler Ravi Dahiya were recommended for the Khel Ratna as an unprecedented 11 athletes were selected for the country's highest sporting honour.",
+              "contentFrom": "SPORTS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87306859.cms?width=320&height=183&quality=100",
+              "title": "NCB records Sameer Wankhede's statement: Key points",
+              "content": "The NCB's Deputy Director General (DDG)-northern region, Gyaneshwar Singh said they have started recording the statement of the agency's Mumbai zonal director Sameer Wankhede in connection with the departmental vigilance probe into allegations of extortion in the drugs-on-cruise case.",
+              "contentFrom": "ENTERTAINMENT"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87301925.cms?width=320&height=183&quality=100",
+              "title": "US eases travel hurdles for Covaxin trial participants",
+              "content": "At a time when the World Health Organisation (WHO) is dithering on granting Emergency Use Listing (EUL) to Bharat Biotech’s Covaxin, the United States Centres for Disease Control and Prevention (CDC) has given clearance to Covaxin vaccinated individuals to travel to the US, albeit with a rider.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87297327.cms?width=320&height=183&quality=100",
+              "title": "SC forms 3-member panel to probe Pegasus snooping case",
+              "content": "The Supreme Court of India on Wednesday appointed an expert committee to look into Pegasus snooping controversy. The scandal had allegedly compromised privacy of individuals and institutions.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87305529.cms?width=320&height=183&quality=100",
+              "title": "New TV series on Martin Luther King Jr's biography!",
+              "content": "Author Patrick Parr's biography on Martin Luther King Jr. titled 'The Seminarian' was released in 2018. And now, the biography is being adapted into a TV series.",
+              "contentFrom": "LIFESTYLE"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87299272.cms?width=320&height=183&quality=100",
+              "title": "Captain Amarinder: 'Yes, I am forming a party, can go for seat-sharing pact with BJP'",
+              "content": "Ahead of the state polls next year, former Punjab chief minister Amarinder Singh on Wednesday announced that he will form a new political party. \"Yes, I will be forming a new party. The name will be announced once the Election Commission clears it, along with the symbol. My lawyers are working on it,\" he said.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87291645.cms?width=320&height=183&quality=100",
+              "title": "No consumption, recovery, test or conscious possession: Aryan",
+              "content": "Arguing for actor Shah Rukh Khan’s son Aryan Khan’s bail plea in the drug seizure case, former attorney general Mukul Rohatgi told the Bombay high court on Tuesday that Aryan was not in “conscious possession” of the contraband allegedly seized from a friend’s shoe. Questioning the finding by the judge of a special court handling drug cases that Aryan was in “conscious possession” of contraband found with a friend, Rohatgi said the surmise was “tenuous and farfetched”...",
+              "contentFrom": "ENTERTAINMENT"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87298452.cms?width=320&height=183&quality=100",
+              "title": "India adds 13,451 new Covid-19 infections, active cases lowest in 242 days",
+              "content": "India on Wednesday reported 13,451 new coronavirus infections, taking the total tally of Covid-19 cases to 3,42,15,653. According to the Union health ministry data, the country also registered 585 fresh fatalities taking the death toll to 4,55,653. The active cases, meanwhile, declined to 1,62,661, the lowest in 242 days, according to the data updated at 8 am.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87303534.cms?width=320&height=183&quality=100",
+              "title": "Water tycoon is China's richest as wealth crackdown batters Jack Ma",
+              "content": "Bottled-water tycoon Zhong Shanshan has become China's wealthiest person, according to an annual ranking released Wednesday, as a government campaign to rein in the super-rich took a big bite out of the fortunes of perennial front-runners like Alibaba co-founder Jack Ma.",
+              "contentFrom": "BUSINESS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87303255.cms?width=320&height=183&quality=100",
+              "title": "Preparations ramped up in Kedarnath in view of PM's upcoming visit",
+              "content": "The Chardham Devasthanam Board stepped up its preparations on Wednesday in view of Prime Minister Narendra Modi's visit to Kedarnath on November 5. Roads and a helipad en route to the Himalayan shrine have already been cleared of snow while work on the beautification of the temple and other minor arrangements are underway, the Devasthanam board's media incharge Harish Gaud said.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87300925.cms?width=320&height=183&quality=100",
+              "title": "Oil will hit $90 by year end: Why crude prices will only rise further",
+              "content": "Goldman Sachs expects that oil demand will shortly reach pre-Covid levels of around 100 million barrels per day (bpd) as consumption will rebound soon.",
+              "contentFrom": "BUSINESS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87298081.cms?width=320&height=183&quality=100",
+              "title": "Jamaat-e-Islami terror funding case: NIA raids multiple locations in J&K",
+              "content": "In its ongoing investigation against the outlawed Jamaat-e-Islami (JeI) group in a terror funding case, the National Investigation Agency (NIA) on Wednesday carried out searches at the residential premises against its cadres in J&K. These raids are in continuation to the anti-terror agency's 61 raids conducted by its sleuths on August 8 and 9 in 14 districts of Jammu and Kashmir.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87298393.cms?width=320&height=183&quality=100",
+              "title": "Waqar Younis apologises for his 'namaz' comment, says sports unites people",
+              "content": "Waqar Younis on Wednesday apologised for his communal remarks during a television show following Pakistan's 10-wicket victory over India in the ongoing T20 World Cup as the former Pakistan pacer was castigated on social media for his \"jihadi mindset\".",
+              "contentFrom": "SPORTS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87296446.cms?width=320&height=183&quality=100",
+              "title": "T20 World Cup: New Zealand's Martin Guptill injured, doubtful for India clash",
+              "content": "Experienced opener Martin Guptill has been rendered a doubtful starter for New Zealand's 'Super 12' match against India on Sunday after he suffered a toe injury during their clash against Pakistan in the ongoing T20 World Cup.",
+              "contentFrom": "SPORTS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87296802.cms?width=320&height=183&quality=100",
+              "title": "CDS, Army Chief lay wreath at National War Memorial on 75th Infantry Day",
+              "content": "On the occasion of 75th Infantry Day, Chief of Defence Staff (CDS) General Bipin Rawat, along with Indian Army chief General MM Naravane, laid a wreath at the National War Memorial in the national capital, on Wednesday. Infantry Day is observed as a remembrance of the first military event of independent India.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87297474.cms?width=320&height=183&quality=100",
+              "title": "Tesla’s $1 trillion valuation belies its revenue position",
+              "content": "Unlike its trillion-dollar peers, Tesla’s valuation touched that level before its revenue could reach the $50-billion mark. Even though Tesla is the fifth-biggest company on the S&P 500 Index when ranked by market capitalization, it is in 89th place when ranked by last year’s annual revenue.",
+              "contentFrom": "BUSINESS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87296868.cms?width=320&height=183&quality=100",
+              "title": "US bans China Telecom over national security concerns",
+              "content": "The US Federal Communications Commission (FCC) found that China Telecom \"is subject to exploitation, influence, and control by the Chinese government and is highly likely to be forced to comply with Chinese government requests without sufficient legal procedures subject to independent judicial oversight.\"",
+              "contentFrom": "BUSINESS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87297176.cms?width=320&height=183&quality=100",
+              "title": "Twitter battle turns ugly: Harbhajan Singh reminds Mohammad Amir of 'spot fixing' scandal",
+              "content": "It's been three days since India lost to Pakistan in the T20 World Cup, but tensions continue to flare on social media. In the latest episode, Harbhajan Singh and Mohammad Amir got involved in a Twitter feud late on Tuesday night.",
+              "contentFrom": "SPORTS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87295586.cms?width=320&height=183&quality=100",
+              "title": "WHO seeks 'additional clarifications' from Bharat Biotech for Covaxin to conduct final 'risk-benefit assessment'",
+              "content": "The World Health Organisation's technical advisory group on Tuesday sought \"additional clarifications\" from Bharat Biotech for its Covid-19 vaccine Covaxin to conduct a final \"risk-benefit assessment\" for Emergency Use Listing of the vaccine.",
+              "contentFrom": "WORLD"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87296110.cms?width=320&height=183&quality=100",
+              "title": "T20 World Cup: Team India welcomes unusually long break",
+              "content": "At the moment, the set of 15 Indian cricketers in the UAE could barter anything to squeeze out some time for a breather. Form, fitness and combinations aside, all the Indian team would have wanted was some time to revitalize going into a high-octane, emotionally-charged match like the one they played against Pakistan on Sunday night.",
+              "contentFrom": "SPORTS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87283799.cms?width=320&height=183&quality=100",
+              "title": "Navy commander among 5 held for leaking info",
+              "content": "A serving naval officer and two retired ones, along with two “private persons”, have been arrested by the CBI in connection with the alleged leaking of confidential information related to the modernization of the Kilo-class conventional submarines.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87295012.cms?width=320&height=183&quality=100",
+              "title": "Google-parent Alphabet earns record profit on ad surge",
+              "content": "Google's parent company Alphabet announced profits Tuesday that jumped to $18.9 billion, even as the online colossus faces increased regulatory pressure and shifting of the lockdown lifestyles that have so benefited Big Tech.",
+              "contentFrom": "BUSINESS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87292278.cms?width=320&height=183&quality=100",
+              "title": "Double jabs, negative report must to fly to US from Nov 8",
+              "content": "Come November 8 and foreign travellers who are fully vaccinated with WHO-approved jabs and have a negative Covid report from a test taken within 72 hours of departure can enter the US. For travellers from India, it means the lifting of restrictions imposed on May 4 at the height of India's second Covid wave.",
+              "contentFrom": "WORLD"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87294837.cms?width=320&height=183&quality=100",
+              "title": "FDA panel backs Pfizer's low-dose Covid-19 vaccine for kids",
+              "content": "A Food and Drug Administration advisory panel voted unanimously, with one abstention, that the vaccine's benefits in preventing Covid-19 in that age group outweigh any potential risks. That includes questions about a heart-related side effect that's been very rare in teens and young adults despite their use of a much higher vaccine dose.",
+              "contentFrom": "WORLD"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87294531.cms?width=320&height=183&quality=100",
+              "title": "US stocks: Wall Street closes at record high but Facebook weighs",
+              "content": "The Dow Jones Industrial Average rose 15.73 points, or 0.04%, to 35,756.88; the S&P 500 gained 8.31 points, or 0.18%, at 4,574.79; and the Nasdaq Composite added 9.01 points, or 0.06%, at 15,235.72.",
+              "contentFrom": "BUSINESS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87293998.cms?width=320&height=183&quality=100",
+              "title": "Pakistan army has its way, PM notifies appointment of Lt Gen Anjum as ISI chief",
+              "content": "Pakistan PM Imran Khan notified on Tuesday the appointment of Lt General Nadeem Ahmed Anjum as the new chief of Inter-Services Intelligence (ISI), paving the way for the implementation of the early decision taken by the country's army chief regarding the nomination of the new spymaster. He will replace Lt General Faiz Hameed from next month.",
+              "contentFrom": "WORLD"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87293763.cms?width=320&height=183&quality=100",
+              "title": "Radio Mirchi Q2 revenue grows by 46%",
+              "content": "Entertainment Network (India) Ltd, or ENIL, has reported a 46.3% growth in revenue for the quarter ended September 30. The surge came on the back of a strong 50% growth in radio and 51% in the solutions business, the operator of India's No.1 FM radio channel, Radio Mirchi, said on Tuesday while announcing results for the second quarter.",
+              "contentFrom": "BUSINESS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87291875.cms?width=320&height=183&quality=100",
+              "title": "Hundreds at Kheri rally, why only 23 eyewitnesses: SC",
+              "content": "The Supreme Court on Tuesday questioned UP Police on why there were only 23 eyewitnesses in the Lakhimpur Kheri violence case when hundreds of people were present at the rally and also directed the UP government to provide protection to all of them.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87291888.cms?width=320&height=183&quality=100",
+              "title": "Can't impose Kannada: Karnataka HC",
+              "content": "Students coming from outside Karnataka can't be compelled to learn Kannada language, be it classical or functional, the high court on Tuesday orally observed, granting time to the state government to reconsider the issue.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87291230.cms?width=320&height=183&quality=100",
+              "title": "Expedite coverage of 2nd dose, government to tell states",
+              "content": "In a move to ramp up coverage of Covid vaccines, particularly the second dose among those who are overdue, Union health minister Mansukh Mandaviya has called a meeting with health ministers of states and Union territories on Wednesday to review the situation and expedite the coverage so that all of the adult population can be covered with at least one dose by December.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87291822.cms?width=320&height=183&quality=100",
+              "title": "Govt to slap UAPA on Pak cheerleaders at J&K college",
+              "content": "The students at the Government Medical College (GMC) and Sher-i-Kashmir Institute of Medical Sciences (SKIMS) in Srinagar who led the celebrations of Pakistan’s victory over India in Sunday’s T20 World Cup cricket match will be charged under the Unlawful Activities (Prevention) Act for having sung Pakistan’s national anthem in a government-funded institution.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87291281.cms?width=320&height=183&quality=100",
+              "title": "FDA advisers back Pfizer's Covid-19 vaccine for young kids",
+              "content": "panel of US health advisers on Tuesday endorsed kid-size doses of Pfizer’s Covid-19 vaccine, moving the US closer to beginning vaccinations in children ages 5 to 11.",
+              "contentFrom": "WORLD"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87289775.cms?width=320&height=183&quality=100",
+              "title": "Dismissed: Germany's Merkel becomes caretaker chancellor",
+              "content": "Angela Merkel took a step closer to political retirement Tuesday after receiving her formal dismissal certificate from the post of chancellor after 16 years in office, though she will lead a caretaker government until her successor is sworn in.",
+              "contentFrom": "WORLD"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87288915.cms?width=320&height=183&quality=100",
+              "title": "Air India to add US nonstops post Nov 8 when Uncle Sam reopens for fully vaccinated travellers",
+              "content": "This could be the last expansion of services by state-owned Air India before it transits to the Tata Group and the big bang expansion then. The Maharaja will be adding its highly popular US nonstops from next month as Uncle Sam reopens for fully vaccinated foreign travellers stating November 8.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87286556.cms?width=320&height=183&quality=100",
+              "title": "BJP demands Meghalaya Guv resignation after his corruption remark",
+              "content": "A day after former Goa governor Satya Pal Malik levelled serious corruption charges against the state government, BJP on Tuesday demanded his resignation. Malik is currently the Governor of Meghalaya.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87286482.cms?width=320&height=183&quality=100",
+              "title": "US consumer confidence rebounds in October: Survey",
+              "content": "US consumer confidence bounced back in October after falling for three consecutive months as fears about the latest wave of Covid-19 infections diminished, according to an industry survey published Tuesday.",
+              "contentFrom": "BUSINESS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87285991.cms?width=320&height=183&quality=100",
+              "title": "India targets major global firms for local battery manufacturing: Report",
+              "content": "India plans to pitch to companies such as Tesla Inc, Samsung and LG Energy to encourage them to invest in manufacturing batteries locally, as it looks to establish a domestic supply chain for clean transport, two government sources told Reuters.",
+              "contentFrom": "BUSINESS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87285741.cms?width=320&height=183&quality=100",
+              "title": "YouTube, TikTok, Snapchat offering only small changes to ensure safety of young users: US Senator",
+              "content": "YouTube, TikTok and Snapchat are offering only \"tweaks and minor changes\" in their operations to ensure young users' safety amid rising concern over the platforms' potential harm to children, the head of a Senate panel told the companies' executives Tuesday.",
+              "contentFrom": "WORLD"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87285250.cms?width=320&height=183&quality=100",
+              "title": "Farmers protest: Samyukt Kisan Morcha, United Sikhs to work in tandem",
+              "content": "United Sikhs, an advocacy organisation affiliated to the United Nations, has been applauded by the Samyukt Kisan Morcha (SKM), an umbrella organisation of 32 farmer bodies leading protests at the borders of New Delhi.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87285230.cms?width=320&height=183&quality=100",
+              "title": "Rahul Dravid applies for coach's job; BCCI wants either VVS Laxman or Anil Kumble for NCA",
+              "content": "Rahul Dravid and his support staff will be given a two-year contract till the 2023 World Cup in India. Dravid will draw a salary of Rs 10 crore. The board has still not made up its mind on the fielding coach to replace R Sridhar.",
+              "contentFrom": "SPORTS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87284478.cms?width=320&height=183&quality=100",
+              "title": "Tax revenues likely to beat forecast on strong recovery: Report",
+              "content": "The government expects tax revenues for the current financial year to be 10% above budget, beating forecasts for the first time in four years, two officials said, as the economy powers back towards pre-pandemic levels.",
+              "contentFrom": "BUSINESS"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87284649.cms?width=320&height=183&quality=100",
+              "title": "WHO Covaxin review: 'Outcome likely in 24 hrs'",
+              "content": "Hyderabad-based Bharat Biotech, which has developed Covaxin, had submitted EOI (Expression of Interest) to the WHO on April 19 for the vaccine's Emergency Use Listing (EUL). \"If the committee is satisfied, we would expect a recommendation within the next 24 hours or so,\" a WHO spokesperson told reporters.",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87277022.cms?width=320&height=183&quality=100",
+              "title": "SC reserves judgement on grant of reservation in promotion to SCs/STs",
+              "content": "The Supreme Court Tuesday reserved its judgement on the issue of the grant of reservation in promotion to the Scheduled Castes (SCs) and Scheduled Tribes (STs) in government jobs. A three-judge bench headed by Justice Nageswara Rao heard all the parties in the matter including Attorney General K K Venugopal, Additional Solicitor General (ASG) Balbir Singh, and other senior lawyers...",
+              "contentFrom": "INDIA"
+          },
+          {
+              "urlToImg": "https://timesofindia.indiatimes.com/thumb/87275943.cms?width=320&height=183&quality=100",
+              "title": "Rahul Gandhi to visit Goa on October 30",
+              "content": "During the visit to Goa, Rahul Gandhi would address a convention of Congress workers at SPM Stadium in Bambolim and also participate in various other party-level events scheduled that day, Congress state party chief Girish Chodankar told PTI.",
+              "contentFrom": "INDIA"
+          }
+      ],
+      "educationNews":
+      {
+          "education":
+          {
+              "head": "EDUCATION NEWS",
+              "img": "https://static.toiimg.com/photo/87328514.cms",
+              "imgtxt": "NEET UG 2021 result to be declared soon at neet.nta.nic.in",
+              "box1":
+                  {
+                      "news1": "WB Madhyamik, Higher Secondary exams likely to be offline in 2022",
+                      "news2": "1st-year UG, PG classes in Odisha to begin from November",
+                      "news3":"Education ministry notifies four-year Integrated Teacher Education",
+                      "news4":"",
+                      "news5":"Andhra earmarks 35% BTech, Agri seats in private varsities under",
+                      "news6":"MP school education department conducts camp for physically"
+                  },
+              "box2":{
+                      "news7":"Schools in Himachal to remain closed from Nov 1 to 6 for Diwali break",
+                      "news8":"",
+                      "news9":"Gujarat Police Constable Recruitment 2021: Apply online for 10,459 vacancies",
+                      "news10":"Indian Navy MR Recruitment 2021: Notification released"
+              },
+              "box3":{
+                      "news11":"SSC CHSL Skill Test 2019 Admit Card released, download here",
+                      "news12":"JKBOSE Class 12 Board exams data sheet released, exams from Nov 9"
+                  }
+          },
+          "jobs":
+          {
+              "head": "JOBS NEWS",
+              "img": "https://static.toiimg.com/thumb/imgsize-88198,msid-87282845,width-150,resizemode-4/87282845.jpg",
+              "imgtxt": "SSC Admit Card for SI in Delhi Police and CAPF Paper-II Examination 2020 released",
+              "box1":
+                  {
+                      "news1": "SSC CHSL Skill Test 2019 Admit Card released, download here",
+                      "news2": "Gujarat Police Constable Recruitment 2021: Apply online for 10,459",
+                      "news3":"Indian Navy MR Recruitment 2021: Notification released,",
+                      "news4":"",
+                      "news5":"IOCL Recruitment 2021: Apply online for 1968 Trade Apprentice and other posts",
+                      "news6":"NHM AP Recruitment 2021: Apply for 3393 Mid-Level Health Providers posts"
+                  },
+              "box2":{
+                      "news7":"DRDO Recruitment 2021: Apply online for 12 Apprentice posts",
+                      "news8":"",
+                      "news9":"SSC Constable (GD) application status 2021 released, admit card soon",
+                      "news10":"HSSC SI Male PST, PMT, and scrutiny admit card releases, here's link"
+              },
+              "box3":{
+                      "news11":"TN TRB Admit Card for Lecturers exam 2021 released, download here",
+                      "news12":"Biar Police Constable exam 2021 result released; Admit Card for PET from Oct 25"                            
+                  }
+          },
+          "stateBoard":
+          {
+              "head": "STATE BOARD EXAMS",
+              "img": "https://static.toiimg.com/thumb/imgsize-87760,msid-87281079,width-150,resizemode-4/87281079.jpg",
+              "imgtxt": "JKBOSE Class 12 Board exams date sheet released, exams from Nov 9",
+              "box1":
+                  {
+                      "news1": "ISC exams to begin on November 22, ICSE on November 29; will be offline",
+                      "news2": "Coimbatore: CBSE schools ready students for MCQ-based Term I exam",
+                      "news3":"JAC Jharkhand Board releases special and other exam result",
+                      "news4":"",
+                      "news5":"CHSE Result 2021: 98.58% students padd Odisha Plus 2 exams",
+                      "news6":"CiSce to conduct ICSE, ISC compartment exams from August 18, result on Sept 20"
+                  },
+              "box2":{
+                      "news7":"WB Board passes all students in its review of Class 12 results",
+                      "news8":"",
+                      "news9":"Odisha announces higher secondayr results of science and commerce stream",
+                      "news10":"UBSE results: Over 99% students clear exams"
+              },
+              "box3":{
+                      "news11": "Maharastra HSC result 2021 announced",
+                      "news12": "10-year-old Krishna passes Class 10 exam in UP"
+                  }
+          },
+          "entrance":
+          {
+              "head": "ENTRANCE EXAMS",
+              "img": "https://static.toiimg.com/thumb/imgsize-33144,msid-87217705,width-150,resizemode-4/87217705.jpg",
+              "imgtxt": "UGC NET 2021 revised exam dates released, check full schedule here",
+              "box1":
+                  {
+                      "news1": "UPSC NDA/NA II Admit Cards 2021 released, download here",
+                      "news2": "CTET 2021 application last date extended to October 25",
+                      "news3":"AP-RCET 2021 application registration begins at sche.ap.gov.in",
+                      "news4":"",
+                      "news5":"UGC-NET 2021 postponed again, new exam dates soon",
+                      "news6":"JEE Advanced 2021 answer key released, submit feedback by Oct 11"
+                  },
+              "box2":{
+                      "news7":"IPU CET Result 2021 for BJMC, BBA, BCA, B.Com(H) and B.Ed. released,",
+                      "news8":"",
+                      "news9":"CUCET Answer Keys 2021 released, challende up to Oct 5",
+                      "news10":"AP PGECET Answer Key 2021 released at sche.ap.gov.in, check here"
+              },
+              "box3":{
+                      "news11": "BHU UET 2021: Exam date for test paper codes 104 and 105 rescheduled to Oct",
+                      "news12": "JEE Advanced 2021: Math toughest, say scholars"
+                  }    
+          },
+          "examResult":
+          {
+              "head": "EXAMS RESULT NEWS",
+              "img": "https://static.toiimg.com/thumb/imgsize-88033,msid-78784235,width-150,resizemode-4/78784235.jpg",
+              "imgtxt": "CGBSE Revaluation 2020 result for 10th and 12th released, check here",
+              "box1":
+                  {
+                      "news1": "Anna University reslt 2020: All students except final semester registered",
+                      "news2": "TS SSC Results 2020: Telangana 10th Marks emo released @",
+                      "news3":"Telangana University result declared for Dec-Jan 2019-20 exams, here's",
+                      "news4":"",
+                      "news5":"Results of classes IX and XI to be declared on April 20: Chandigarh Education",
+                      "news6":"Bihar BSEB Board 12th Result 2020 declared; check here"
+                  },
+              "box2":{
+                      "news7":"TNTEU B.Ed May/June result 2019 announced; result link now available",
+                      "news8":"",
+                      "news9":"RPSC SI result , cut-off marks 2019 for PET released",
+                      "news10":"MUHS UG/PG Result 2019 released @muhs.edu.in"
+              },
+              "box3":{
+                      "news11": "Osmania University MBA (CBCs) May/June and Jul/Aug 2019 results",
+                      "news12": "Maharastra SSC supplementary 2019 results to be announced this week."
+                  }    
+          },
+          "admission":
+          {
+              "head": "ADMISSION NEWS",
+              "img": "https://static.toiimg.com/thumb/imgsize-782543,msid-84977132,width-150,resizemode-4/84977132.jpg",
+              "imgtxt": "DU to increase college seats cut-offs likely to soar",
+              "box1":
+                  {
+                      "news1": "TS DOST 2020: Application process for degree admission begins today",
+                      "news2": "KVS admission list 2020 for class 1 released, check application status here",
+                      "news3":"Gujarat University Final Merit Round 1 released for UG courses, here's direct",
+                      "news4":"",
+                      "news5":"Kerala University UG admission process begins, register @",
+                      "news6":"KVS Admissions 2020: Kendriya Vidyalaya Class I registration to begin from"
+                  },
+              "box2":{
+                      "news7":"DU admission forms 2020 for UG, PG, M.Phil./ Ph.D. courses available; check",
+                      "news8":"",
+                      "news9":"JNVST 2020 for admission to Class 6 postponed, check details here",
+                      "news10":"BA most sough-after course this year in GACC"
+              },
+              "box3":{
+                      "news11": "Jamia Millia Islamia admission 2020: Online filing of admission forms for JMI",
+                      "news12": "Jamia Hamdard UG/PG admission begins: Check here how to fill online"
+                  }
+          },
+          "cbseBoard":
+          {
+              "head": "CBSE BOARD EXAMS",
+              "img": "https://static.toiimg.com/thumb/imgsize-111542,msid-87239754,width-150,resizemode-4/87239754.jpg",
+              "imgtxt": "Only marks in first semester CBSE results",
+              "box1":
+                  {
+                      "news1": "Only marks in first semester CBSE results",
+                      "news2": "CBSE Board Exams 2021-22: Time management key to high MCQ scores, says",
+                      "news3":"CBSE Board Exams 2021-22: Time management key to high MCQ scores, says",
+                      "news4":"",
+                      "news5":"CBSE releases Term-1 date sheet, exams for major subjects to begin from Nov",
+                      "news6":"CBSE releases Term-1 date sheet, exams for major subjects to begin from Nov"
+                  },
+              "box2":{
+                      "news7":"As CBSE boards pattern changes, adjustment tests schools, students",
+                      "news8":"",
+                      "news9":"Pre-sem exam for boards kids: CBSE, CISCE schools to hold 1st-term test in MCQ",
+                      "news10":"CBSE class 10 result: Over 98 pc students pass; pvt schools outperform Delhi govt"
+              },
+              "box3":{
+                      "news11": "CBSE Classes X & XII date sheets for optional and compartment exams",
+                      "news12": "CBSE Classes X & XII date sheets for optional and compartment exams"
+                  }
+          },
+          "timesStudy":
+          {
+              "head": "TIMES STUDY ABROAD",
+              "img": "https://static.toiimg.com/thumb/imgsize-74618,msid-87104169,width-150,resizemode-4/87104169.jpg",
+              "imgtxt": "Bangladesh emerger as the New MBBS Abroad Destination for Indian Students",
+              "box1":
+                  {
+                      "news1": "MBBS Abroad: Admission open for 2021 wth partial scholarship",
+                      "news2": "Russia offers free scholarships to Indian students",
+                      "news3":"Chinese students hit by US visa rejections amid tension",
+                      "news4":"",
+                      "news5":"US University will continue with Test, Trace, Treat protocol",
+                      "news6":"Ukraine and Russia are leadin study destinations to purser MBBS abroad"
+                  },
+              "box2":{
+                      "news7":"'Students hit visa jackpot for US in pandemic year'",
+                      "news8":"",
+                      "news9":"Facilitating legitimate travel a top priority: American diplomat on allowing Indian",
+                      "news10":"Indian students 'positive' about UK courses despite lockdown"
+              },
+              "box3":{
+                      "news11": "Indian students enrolled in Italian universities stranded back home due to travel ban",
+                      "news12": "Indians studying medicine in China desperate to return to college"
+                  }
+          },
+          "educationVideo":
+          {
+              "head": "EDUCATION VIDEOS",
+              "img": "https://static.toiimg.com/thumb/imgsize-18158,msid-87129995,width-150,resizemode-4/87129995.jpg",
+              "imgtxt": "CBSE DATE SHEET 2021: Key points",
+              "box1":
+                  {
+                      "news1": "How to download SBI Clerk Prelims result?",
+                      "news2": "How to check JEE Main 2021 Result & Ranks?",
+                      "news3":"How to Check AP EAMCET Result 2021?",
+                      "news4":"",
+                      "news5":"How to download NEET UG 2021 Admit Card?",
+                      "news6":"How to download Rajasthan PTET 2021 admit card?"
+                  },
+              "box2":{
+                      "news7":"How to download AP EAMCET Hall Ticket 2021?",
+                      "news8":"",
+                      "news9":"How to check and download CBSE Class 12 Result 2021?",
+                      "news10":"How to check and download CBSE Class 10 Result 2021?"
+              },
+              "box3":{
+                      "news11": "How to check Karnataka Class 10 Result 2021?",
+                      "news12": "How to check Andhra Pradesh class 10 result?"
+                  }  
+          },
+          "medical":
+          {
+              "head": "MEDICAL NEWS",
+              "img": "https://static.toiimg.com/thumb/imgsize-7579,msid-81970073,width-150,resizemode-4/81970073.jpg",
+              "imgtxt": "NEET UG Contact Details",
+              "box1":
+                  {
+                      "news1": "NEET UG Result",
+                      "news2": "NEET UG Answer Key",
+                      "news3":"NEET UG Admit Card",
+                      "news4":"",
+                      "news5":"NEET UG Application Form",
+                      "news6":"NEET UG Eligibility"
+                  },
+              "box2":{
+                      "news7":"NEET UG Exam Pattern and Syllabus",
+                      "news8":"",
+                      "news9":"AIIMS MBBS UG Contact Details",
+                      "news10":"AIIMS MBBS UG Results"
+              },
+              "box3":{
+                      "news11": "NEET UG Important Dates",
+                      "news12": "National Eligibilty Cum Entrance Test UG (NEET UG)"
+                  }
+          },
+          "engineering": 
+          {
+              "head": "ENGINEERING NEWS",
+              "img": "https://static.toiimg.com/thumb/imgsize-260866,msid-82017144,width-150,resizemode-4/82017144.jpg",
+              "imgtxt": "Contact Information",
+              "box1":
+                  {
+                      "news1": "Results",
+                      "news2": "Admit Card",
+                      "news3":"Registration & Application Form",
+                      "news4":"",
+                      "news5":"GATE 2021 Eligibility Criteria",
+                      "news6":"Exam Pattern & Syllabus"
+                  },
+              "box2":{
+                      "news7":"Graduate Aptitude Test in Engineering (GATE)",
+                      "news8":"",
+                      "news9":"JEE (Advanced) Answer Key",
+                      "news10":"JEE (Advanced) Admit Card"
+              },
+              "box3":{
+                      "news11": "JEE (Advanced) Contact Details",
+                      "news12": "JEE (Advanced) Result"
+                  }
+          }
+      },
+      "suggestionList":{
+          "list1": "Kannada actor Puneeth Rajkumar passes away after massive heart...",
+          "list2": "Rajinikanth’s health: Cops deployed outside Kauvery Hospital in Chennai",
+          "list3": "Puneeth Rajkumar walked into my clinic before the ‘sudden death’:...",
+          "list4": "Mumbai: Picture that’s ‘baki’ will end only when Sameer Wankhede loses"
+      },
+      "quickLinks":{
+          "link1":"GRE Exam",
+          "link2":"TOEFL Exam",
+          "link3":"GMAT Exam",
+          "link4":"CBSE Maths Previous Paper",
+          "link5":"CBSE Science 10th Paper",
+          "link6":"TS Eamcet Exam Date",
+          "link7":"UPSC Interview Schedule",
+          "link8":"Delhi Police Recruitment",
+          "link9":"Education News"
+      }
+  }

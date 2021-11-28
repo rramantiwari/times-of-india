@@ -1,0 +1,25 @@
+{
+    "name": "timesOfIndiaClone",
+    "version": "1.0.0",
+    "description": "The Times of India (TOI) is an Indian English-language daily newspaper and digital news media owned and managed by The Times Group. It is the third-largest newspaper in India by circulation and largest selling English-language daily in the world.It is the oldest English-language newspaper in India, and the second-oldest Indian newspaper still in circulation, with its first edition published in 1838",
+    "main": "index.js",
+    "scripts": {
+      "start": "json-server --watch db.json",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/mausam-kumar/timesOfIndiaClone.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/mausam-kumar/timesOfIndiaClone/issues"
+    },
+    "homepage": "https://github.com/mausam-kumar/timesOfIndiaClone#readme",
+    "dependencies": {
+      "json-server": "^0.17.0",
+      "mockserver": "^3.1.1"
+    }
+  }
